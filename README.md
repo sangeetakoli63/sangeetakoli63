@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Data Researcher | Power BI Developer | Content Creator**
 
-Welcome to my GitHub portfolio! I'm passionate about exploring data, building interactive dashboards, and sharing content that inspires and informs. I've also walked the tough path of balancing a full-time job, health, and my dream of becoming a creator — and I’m still here, growing every day. 💪
+Welcome to my GitHub portfolio! I'm passionate about exploring data, building interactive dashboards, and sharing content that inspires and informs. I've also walked the tough path of balancing a full-time job, health.
 
 ---
 
