@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Sangeeta Koli!
 
-<!--
-**sangeetakoli63/sangeetakoli63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Researcher | Power BI Developer | Content Creator**
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio! I'm passionate about exploring data, building interactive dashboards, and sharing content that inspires and informs. I've also walked the tough path of balancing a full-time job, health, and my dream of becoming a creator — and I’m still here, growing every day. 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+- 👩‍💻 Self-taught Power BI & Data Enthusiast
+- 📊 Focused on turning raw data into real insights
+- 🎥 Also a creative content creator on Instagram & YouTube
+- 🌱 Currently improving my Python, SQL, and Data Storytelling skills
+
+---
+
+## 🧠 Skills
+- Power BI (Dashboards, DAX, Data Modelling)
+- Excel (Pivot Tables, Charts, Analysis)
+- SQL (Basics)
+- Canva, CapCut, Video Editing
+- Research & Data Collection
+- Content Creation, Instagram Reels, Short Video Storytelling
+
+---
+
+## 📊 Projects
+
+### 🔹 [Sales Analysis Power BI Dashboard](https://github.com/sangeetakoli63/sales-dashboard)  
+📁 Project Summary: Created a clean, interactive sales dashboard showing KPIs, trends, filters, and categories.  
+🔧 Tools: Power BI, Excel
+
+
+> 💡 More Projects Coming Soon!
+
+---
+
+## 📱 Social Media & Content
+- 📸 [Instagram](https://www.instagram.com/sangeeta_koli7322/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sangeeta-koli-a300a4174/)
+- 📹 [YouTube Channel](https://www.youtube.com/@sangeetakoli4417)
+
+---
+
+## ✨ Fun Fact
+I started creating content years ago with zero followers, no editing knowledge, and limited time. Today, I’m blending tech + creativity — building dashboards by day and dancing through reels by night. 🎭💻
+
+---
+
+📬 **Let's Connect:**  
+Got opportunities, collaborations, or feedback?  
+**Email:** sangeetakoli0786@gmail.com
+
+---
